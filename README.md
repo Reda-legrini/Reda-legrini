@@ -3,12 +3,8 @@
 
 
   
- <!--<a href="https://github.com/Reda-legrini">
-        <img src="68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f73746172732f4f6d61727253616b722f4f6d61727253616b72.svg" alt="Stars Badge"/></a>
- -->
-        <br>
+ 
 
-<br>
 <p dir="auto"><animated-image data-catalyst="" style="float: right;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" data-target="animated-image.originalLink"><img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
       <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
         <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" target="_blank">
@@ -27,7 +23,7 @@
 </ul>
 <br>
 
- <br>
+
  
 
 
