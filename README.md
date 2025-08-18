@@ -117,7 +117,7 @@
     src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?usernamereda-legrini&theme=monokai" 
     alt="Repos Per Language" width="24%">-->
   <img 
-    src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=reda-legrini&theme=monokai" 
+    src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Reda-legrini&theme=monokai" 
     alt="Most Commit Language" width="24%">
  <!-- <img 
     src="http://github-profile-summary-cards.vercel.app/api/cards/stats?usernamereda-legrini&theme=monokai" 
