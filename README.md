@@ -49,9 +49,9 @@
     <img src="https://img.shields.io/badge/Twitter%20(X)-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" 
          alt="Twitter (X)" 
          style="max-width: 100%; height: auto;"></a>
-
+<!--
 <a href="https://www.instagram.com/ree__daa.1/" target="_blank" title="Instagram" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Instagram" style="max-width: 100%;"></a>
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Instagram" style="max-width: 100%;"></a> -->
 
 <!--<a href="https://www.facebook.com/ReDa" target="_blank" title="Facebook" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=for-the-badge&amp;logo=facebook&amp;logoColor=white" alt="Facebook" style="max-width: 100%;"></a>
