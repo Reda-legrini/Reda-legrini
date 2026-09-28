@@ -106,39 +106,42 @@
   <a href="https://visualstudio.microsoft.com/" title="Visual Studio" target="_blank" rel="nofollow">
    </p>
 <div class="markdown-heading" dir="auto">
+  <!--
  <h2><img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="35"> Github Stats</h2>
 
-<img 
+<!-- <img 
   src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reda-legrini&theme=monokai" 
   alt="Profile Details" width="100%">
 
-<p align="center">
+<p align="center"> -->
   <!--<img 
     src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?usernamereda-legrini&theme=monokai" 
     alt="Repos Per Language" width="24%">-->
-  <img 
+ <!-- <img 
     src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Reda-legrini&theme=monokai" 
-    alt="Most Commit Language" width="24%">
+    alt="Most Commit Language" width="24%"> -->
  <!-- <img 
     src="http://github-profile-summary-cards.vercel.app/api/cards/stats?usernamereda-legrini&theme=monokai" 
     alt="Stats" width="24%">-->
-  <img 
+ <!-- <img 
     src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=reda-legrini&theme=monokai&utcOffset=8" 
     alt="Productive Time" width="24%">
-</p>
+</p> -->
 <br>
 <div>
   <p dir="auto" style="font-size: 24px; font-weight: bold;"><b>⚠ Note:</b> The <code>Top Languages</code>:</p>
 </div>
 <br>
 <br>
-<p align="center">
+ 
+  <p align="center">
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
   <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100">
   <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100">
   <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
-</p>
+</p> 
+ 
 
 <br>
 
